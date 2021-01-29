@@ -1,0 +1,19 @@
+header {
+    display: flex;
+    background-color: azure;
+    color: brown;
+    padding: 15px;
+    width: 78vw;
+    height: 15vh;
+}
+  
+header > h1 {
+    flex-grow: 1;
+    text-align: center;
+}
+
+header > img {
+width: 150px;
+height: 150px;
+align-items: center;
+}
